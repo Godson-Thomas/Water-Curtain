@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Godson-Thomas/Water-Curtain/blob/master/Im1.jpg" width="350"><br><br>
 
-<img src="https://github.com/Godson-Thomas/Water-Curtain/blob/master/ImR2.jpg" width="250"><br><br>
+<img src="https://github.com/Godson-Thomas/Water-Curtain/blob/master/ImR2.jpg" width="650"><br><br>
 
 
 <img src="https://github.com/Godson-Thomas/Water-Curtain/blob/master/TVideo.gif" width="400"  /> <br><br>
